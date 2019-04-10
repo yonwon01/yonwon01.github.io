@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve`. If you change this file, please re the server process.
 
 # Theme Settings
 #
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "seowon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "초이 ."
+  bio              : "초이 블로그"
   location         : "Somewhere"
   email            :
   links:
